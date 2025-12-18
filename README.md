@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ambasth05aruni/code_leet/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ambasth05aruni/code_leet/tree/master/0014-longest-common-prefix) |
 | [0268-missing-number](https://github.com/ambasth05aruni/code_leet/tree/master/0268-missing-number) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ambasth05aruni/code_leet/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ambasth05aruni/code_leet/tree/master/0268-missing-number) |
+## Sliding Window
+|  |
+| ------- |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ambasth05aruni/code_leet/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+## Prefix Sum
+|  |
+| ------- |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ambasth05aruni/code_leet/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 <!---LeetCode Topics End-->
