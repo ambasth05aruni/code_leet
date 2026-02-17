@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ambasth05aruni/code_leet/tree/master/0268-missing-number) |
+| [0401-binary-watch](https://github.com/ambasth05aruni/code_leet/tree/master/0401-binary-watch) |
 ## Sorting
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ambasth05aruni/code_leet/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/ambasth05aruni/code_leet/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
